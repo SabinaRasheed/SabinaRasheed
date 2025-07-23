@@ -35,9 +35,12 @@
 
 #### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
 
 #### 🧰 Tools & Platforms
 <p align="center">
