@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm Sabina Rasheed </h1>
 <h4 align="center"> I'm a final-year Software Engineering student at FAST NUCES, passionate about building web apps with the MERN stack, ensuring quality through QA testing, and diving into Data Science. Currently interning as a QA Engineer.</h4>
-
 ---
 ### 🧩 Let's Connect!
 
@@ -12,14 +11,14 @@
 
 ### 💼 Skills & Tools
 
-####  Languages
+#### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,flask,bootstrap,tailwind,chartjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,dotnet,flask,bootstrap,tailwind,chartjs" />
   <br/>
   <img src="https://img.shields.io/badge/Framer_Motion-EF6C00?style=flat&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
@@ -44,7 +43,7 @@
 
 #### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
   <br/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
