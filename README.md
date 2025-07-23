@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Sabina Rasheed </h1>
 <h4 align="center"> I'm a final-year Software Engineering student at FAST NUCES, passionate about building web apps with the MERN stack, ensuring quality through QA testing, and diving into Data Science. Currently interning as a QA Engineer.</h4>
----
+
+
 ### 🧩 Let's Connect!
 
 <p align="center"> 
