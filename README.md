@@ -2,6 +2,13 @@
 <h4 align="center"> I'm a final-year Software Engineering student at FAST NUCES, passionate about building web apps with the MERN stack, ensuring quality through QA testing, and diving into Data Science. Currently interning as a QA Engineer.</h4>
 
 
+🔭 I’m currently working on **building full-stack web apps using React, Node.js, and databases like MongoDB & SQL**
+
+🌱 I’m currently learning **Data Science, advance frontend frameworks & libraries**
+
+📫 How to reach me **sabinarasheed57@gmail.com**
+
+
 ### 🧩 Let's Connect!
 
 <p align="center"> 
