@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabinarasheed&show_icons=true&theme=radical&count_private=true" height="170" />
@@ -69,7 +69,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sabinarasheed&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
