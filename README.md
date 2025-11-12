@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on **building full-stack web apps using React, Node.js, and databases like MongoDB & SQL**
 
-🌱 I’m currently learning **Data Science, advance frontend frameworks & libraries**
-
 📫 How to reach me **sabinarasheed57@gmail.com**
 
 
