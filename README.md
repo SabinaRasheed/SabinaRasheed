@@ -24,18 +24,10 @@
 
 #### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,dotnet,flask,bootstrap,tailwind,chartjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind,chartjs" />
   <br/>
-  <img src="https://img.shields.io/badge/Framer_Motion-EF6C00?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-2A2A2A?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2A2A2A?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Gherkin-5C2D91?style=flat&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
 </p>
 
 #### 🗄️ Databases
@@ -50,6 +42,8 @@
 #### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+
   <br/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
@@ -57,6 +51,7 @@
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  
 
 </p>
 
