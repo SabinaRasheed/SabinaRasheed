@@ -46,7 +46,6 @@
 
   <br/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
