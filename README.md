@@ -1,60 +1,66 @@
-<h1 align="center">Hey there, I'm Sabina Rasheed </h1>
-<h4 align="center"> I'm a final-year Software Engineering student at FAST NUCES, passionate about building web apps with the MERN stack, ensuring quality through QA testing, and diving into Data Science. Currently interning as a QA Engineer.</h4>
+<h1 align="center">Hey there, I'm Sabina Rasheed</h1>
+<h4 align="center">
+  I'm a final-year Software Engineering student at FAST NUCES.  
+  I build full-stack web apps using React & Node.js and ensure software reliability through QA testing.  
+  Currently interning as a QA Engineer.
+</h4>
+
 &nbsp;
 
-🔭 I’m currently working on **building full-stack web apps using React, Node.js, and databases like MongoDB & SQL**
+🔭 I’m currently working on **building full-stack applications and strengthening my QA automation skills**  
+📫 Reach me at **sabinarasheed57@gmail.com**
 
-📫 How to reach me **sabinarasheed57@gmail.com**
-
+---
 
 ### 🧩 Let's Connect!
 
 <p align="center">
-<a href="mailto:sabinarasheed57@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
-<a href="https://www.linkedin.com/in/sabina-rasheed-12ba45290/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-<a href="https://discord.com/users/1173666379610730598 " target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a>
-<a href="https://github.com/SabinaRasheed" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<a href="mailto:sabinarasheed57@gmail.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sabina-rasheed-12ba45290/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/SabinaRasheed" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-### 💼 Skills & Tools
+---
 
-#### 💻 Languages
+## 💼 Skills & Tools  
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind,chartjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind" />
   <br/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Gherkin-5C2D91?style=flat&logo=cucumber&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-
-#### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
-
   <br/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  
-
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
-## Statistics
+---
+
+## 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabinarasheed&show_icons=true&theme=radical&count_private=true" height="170" />
@@ -62,15 +68,11 @@
 </p>
 
 ---
-## 🔥 Streak
+
+## 🔥 Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabinarasheed&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sabinarasheed&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
-
-
-
-
-
